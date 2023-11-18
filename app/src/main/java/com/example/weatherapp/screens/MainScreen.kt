@@ -63,7 +63,7 @@ fun MainScreen() {
                 ){
                     Text(
                         modifier = Modifier.padding(5.dp),
-                        text = "20 jun 2022 20:30",
+                        text = "20 jun 2022 dsadsadsad20:30",
                         style = TextStyle(fontSize = 18.sp),
                         color = Color.Black
                     )
